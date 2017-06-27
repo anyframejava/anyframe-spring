@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <anyframe>
-	<pjtname>anyframe-spring-optional-pii</pjtname>
+	<pjtname>anyframe-spring-pi</pjtname>
 	<package>org.anyframe.plugin</package>
 	<pjthome>\Users\user\workspace\anyframe-spring-optional-pi</pjthome>
 	
